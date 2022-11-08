@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.43.0](https://github.com/googleapis/google-http-java-client/compare/v1.42.3...v1.43.0) (2022-11-08)
+
+
+### Features
+
+* Next release from main branch is 1.43.0 ([#1764](https://github.com/googleapis/google-http-java-client/issues/1764)) ([9fbae6c](https://github.com/googleapis/google-http-java-client/commit/9fbae6c0721cce7cb4a9042f8fed4823ce291e80))
+
+
+### Dependencies
+
+* Update dependency com.fasterxml.jackson.core:jackson-core to v2.14.0 ([#1774](https://github.com/googleapis/google-http-java-client/issues/1774)) ([dc41010](https://github.com/googleapis/google-http-java-client/commit/dc410107c98e06531021e5a44ac68ff7621dc47f))
+* Update dependency kr.motd.maven:os-maven-plugin to v1.7.1 ([#1777](https://github.com/googleapis/google-http-java-client/issues/1777)) ([3f318f4](https://github.com/googleapis/google-http-java-client/commit/3f318f44305d9b59aecbdd980abdad525ca47bf3))
+* Update project.appengine.version to v2.0.10 ([#1773](https://github.com/googleapis/google-http-java-client/issues/1773)) ([5ddb634](https://github.com/googleapis/google-http-java-client/commit/5ddb634887601bfad64ac482643f65c820b55fd4))
+
 ## [1.42.3](https://github.com/googleapis/google-http-java-client/compare/v1.42.2...v1.42.3) (2022-10-27)
 
 
